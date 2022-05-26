@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "tarta",
+      "precio": "125",
+      "id": 2
+    },
+    {
+      "nombre": "manzana",
+      "precio": 12,
+      "id": 3
+    },
+    {
+      "nombre": "Caramelos",
+      "precio": 2,
+      "id": 4
+    }
+  ]
+}
